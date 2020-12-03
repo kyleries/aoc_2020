@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: day_2_data
+
+models:
+  - name: normalized_data
+    description: Parsed out data from the original unseparate source file

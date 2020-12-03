@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: day_1_data
+
+models:
+  - name: day_1
+    description: Parsed out data from the original unseparate source file
